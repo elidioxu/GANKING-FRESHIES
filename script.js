@@ -1,15 +1,7 @@
-
-    function mostrarAlerta() {
-        alert("DIVINE PUNISHMENT :3");
-        terceraFuncion();
-        }
-    function segundafuncion() {
-        alert("XD")
-        }
-    function mostrarAlerta2() {
-    alert("I did wipe and lose my progress :´v ");
-    terceraFuncion();
-    }
-    function tercerafuncion() {
-    alert("You´re a permafreshie, you wiped :C");
-    }
+function prueba() {
+	let nombre;
+    let edad;
+    nombre= prompt(" a poner tu nombre aqui");
+    edad= prompt(" ¿y cual es tu edad?");
+alert("hola, yo se que eres un freshie que se llama "+ nombre +"y que tiene la edad de " + edad + " ,que mayor eres, hombre");
+}
